@@ -1,7 +1,7 @@
 PYVERSIONS=3.4 2.7
 PYMAIN=$(firstword $(PYVERSIONS))
 NAME=senpy
-REPO=gsiupm
+REPO=nuig
 VERSION=$(shell cat $(NAME)/VERSION)
 
 
